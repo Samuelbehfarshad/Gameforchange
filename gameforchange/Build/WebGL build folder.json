@@ -1,0 +1,13 @@
+{
+"companyName": "Made in a car",
+"productName": " samuel behfarshad",
+"dataUrl": "WebGL build folder.data.unityweb",
+"wasmCodeUrl": "WebGL build folder.wasm.code.unityweb",
+"wasmFrameworkUrl": "WebGL build folder.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
